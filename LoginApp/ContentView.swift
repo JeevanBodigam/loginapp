@@ -30,7 +30,7 @@ struct ContentView: View {
                 
             }
             .padding(.all,20)
-            .cornerRadius(6)
+            .cornerRadius(10)
             Spacer()
             Spacer()
             Button(action: {
